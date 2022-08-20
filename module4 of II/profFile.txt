@@ -1,0 +1,7 @@
+Ishu Rathore 14
+Priyanka kunwar 18
+Kalyani Chaudhary 12
+The total points of students are: 
+Ishu Rathore->14.0
+Priyanka kunwar->18.0
+Kalyani Chaudhary->12.0
